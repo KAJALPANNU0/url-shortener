@@ -44,7 +44,9 @@ Through this project, I learned:
 ## 🌱 Future Improvements
 
 - Redirect using short URL
-- DTOs for request and response
-- Input validation
 - Exception handling
 - Custom short code generation
+
+  
+<img width="1312" height="1199" alt="url_mindmap" src="https://github.com/user-attachments/assets/141f5c9e-c825-4e92-bd79-c47a213c1b14" />
+
